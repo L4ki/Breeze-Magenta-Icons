@@ -14,7 +14,7 @@
    version="1.1"
    height="64"
    id="svg2"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    sodipodi:docname="system-file-manager.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -25,30 +25,35 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
+     inkscape:window-width="1920"
+     inkscape:window-height="1040"
      id="namedview17"
      showgrid="false"
      inkscape:snap-bbox="true"
      inkscape:bbox-nodes="true"
-     inkscape:zoom="1"
-     inkscape:cx="34.795165"
-     inkscape:cy="29.005378"
+     inkscape:zoom="5.6568542"
+     inkscape:cx="26.507053"
+     inkscape:cy="38.613559"
      inkscape:current-layer="layer1"
      showguides="false"
      inkscape:guide-bbox="true"
-     inkscape:object-nodes="true">
+     inkscape:object-nodes="true"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
        id="grid4145" />
     <sodipodi:guide
        position="26,40"
        orientation="0.70710678,0.70710678"
-       id="guide4381" />
+       id="guide4381"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="3,35"
        orientation="0.70710678,0.70710678"
-       id="guide4401" />
+       id="guide4401"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <defs
      id="defs5455">
@@ -68,11 +73,11 @@
        inkscape:collect="always"
        id="linearGradient4291">
       <stop
-         style="stop-color:#1d5e8c;stop-opacity:1"
+         style="stop-color:#190f19;stop-opacity:1"
          offset="0"
          id="stop4293" />
       <stop
-         style="stop-color:#2675a7;stop-opacity:1"
+         style="stop-color:#ffaaff;stop-opacity:1"
          offset="1"
          id="stop4295" />
     </linearGradient>
@@ -114,11 +119,11 @@
        inkscape:collect="always"
        id="linearGradient4172-5">
       <stop
-         style="stop-color:#127bdc;stop-opacity:1"
+         style="stop-color:#6a406a;stop-opacity:1"
          id="stop4174-6" />
       <stop
          offset="1"
-         style="stop-color:#64b4f4;stop-opacity:1"
+         style="stop-color:#ffaaff;stop-opacity:1"
          id="stop4176-6" />
     </linearGradient>
     <linearGradient
